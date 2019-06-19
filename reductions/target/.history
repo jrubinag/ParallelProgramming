@@ -1,0 +1,18 @@
+run
+clear
+clean
+clear
+run
+clear
+runMain reductions.ParallelCountChangeRunner
+runMain reductions.ParallelParenthesesBalancingRunner
+clear
+clean
+runMain reductions.ParallelParenthesesBalancingRunner
+last
+runMain reductions.ParallelParenthesesBalancingRunner
+submit
+runMain reductions.LineOfSightRunner
+submit
+submit jonathan.rubina@bonzzu.com BcljapnxahjJ4Poo
+submit jonathan.rubina@bonzzu.com vwOmuw9Re3EdgL2t

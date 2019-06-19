@@ -1,0 +1,643 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes
+compile options:
+1 items
+0 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+46 items
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/common/package.scala -> /Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/common/package$.class
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/common/package.scala -> /Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/common/package$DefaultTaskScheduler$$anon$1.class
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/common/package.scala -> /Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/common/package$DefaultTaskScheduler.class
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/common/package.scala -> /Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/common/package$TaskScheduler.class
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/common/package.scala -> /Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/common/package.class
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> /Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/reductions/LineOfSight$$anonfun$4.class
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> /Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/reductions/LineOfSight$$anonfun$5.class
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> /Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/reductions/LineOfSight$$anonfun$6.class
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> /Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/reductions/LineOfSight$$anonfun$downsweep$1.class
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> /Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/reductions/LineOfSight$$anonfun$downsweep$2.class
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> /Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/reductions/LineOfSight$$anonfun$lineOfSight$1.class
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> /Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/reductions/LineOfSight$.class
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> /Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/reductions/LineOfSight$Leaf$.class
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> /Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/reductions/LineOfSight$Leaf.class
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> /Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/reductions/LineOfSight$Node$.class
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> /Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/reductions/LineOfSight$Node.class
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> /Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/reductions/LineOfSight$Tree.class
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> /Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/reductions/LineOfSight.class
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> /Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/reductions/LineOfSightRunner$$anonfun$1.class
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> /Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/reductions/LineOfSightRunner$$anonfun$2.class
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> /Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/reductions/LineOfSightRunner$$anonfun$3.class
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> /Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/reductions/LineOfSightRunner$.class
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> /Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/reductions/LineOfSightRunner.class
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> /Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/reductions/ParallelCountChange$$anonfun$3.class
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> /Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/reductions/ParallelCountChange$$anonfun$4.class
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> /Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/reductions/ParallelCountChange$$anonfun$combinedThreshold$1.class
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> /Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/reductions/ParallelCountChange$$anonfun$moneyThreshold$1.class
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> /Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/reductions/ParallelCountChange$$anonfun$totalCoinsThreshold$1.class
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> /Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/reductions/ParallelCountChange$.class
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> /Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/reductions/ParallelCountChange.class
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> /Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/reductions/ParallelCountChangeRunner$$anonfun$1.class
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> /Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/reductions/ParallelCountChangeRunner$$anonfun$2.class
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> /Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/reductions/ParallelCountChangeRunner$.class
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> /Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/reductions/ParallelCountChangeRunner.class
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> /Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancing$$anonfun$3.class
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> /Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancing$$anonfun$4.class
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> /Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancing$$anonfun$5.class
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> /Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancing$$anonfun$6.class
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> /Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancing$$anonfun$7.class
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> /Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancing$$anonfun$8.class
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> /Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancing$.class
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> /Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancing.class
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> /Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancingRunner$$anonfun$1.class
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> /Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancingRunner$$anonfun$2.class
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> /Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancingRunner$.class
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> /Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancingRunner.class
+binary dependencies:
+11 items
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/common/package.scala -> /Users/jonathanrubina/.sbt/0.13/java9-rt-ext-oracle_corporation_11/rt.jar
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/common/package.scala -> /Users/jonathanrubina/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.7/scala-library-2.11.7.jar
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> /Users/jonathanrubina/.sbt/0.13/java9-rt-ext-oracle_corporation_11/rt.jar
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> /Users/jonathanrubina/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/storm-enroute/scalameter-core_2.11/0.6/scalameter-core_2.11-0.6.jar
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> /Users/jonathanrubina/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.7/scala-library-2.11.7.jar
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> /Users/jonathanrubina/.sbt/0.13/java9-rt-ext-oracle_corporation_11/rt.jar
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> /Users/jonathanrubina/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/storm-enroute/scalameter-core_2.11/0.6/scalameter-core_2.11-0.6.jar
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> /Users/jonathanrubina/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.7/scala-library-2.11.7.jar
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> /Users/jonathanrubina/.sbt/0.13/java9-rt-ext-oracle_corporation_11/rt.jar
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> /Users/jonathanrubina/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/storm-enroute/scalameter-core_2.11/0.6/scalameter-core_2.11-0.6.jar
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> /Users/jonathanrubina/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.7/scala-library-2.11.7.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+3 items
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> /Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/common/package.scala
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> /Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/common/package.scala
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> /Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/common/package.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+46 items
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/common/package.scala -> common.package
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/common/package.scala -> common.package$
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/common/package.scala -> common.package$DefaultTaskScheduler
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/common/package.scala -> common.package$DefaultTaskScheduler$$anon$1
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/common/package.scala -> common.package$TaskScheduler
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions.LineOfSight
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions.LineOfSight$
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions.LineOfSight$$anonfun$4
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions.LineOfSight$$anonfun$5
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions.LineOfSight$$anonfun$6
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions.LineOfSight$$anonfun$downsweep$1
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions.LineOfSight$$anonfun$downsweep$2
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions.LineOfSight$$anonfun$lineOfSight$1
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions.LineOfSight$Leaf
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions.LineOfSight$Leaf$
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions.LineOfSight$Node
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions.LineOfSight$Node$
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions.LineOfSight$Tree
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions.LineOfSightRunner
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions.LineOfSightRunner$
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions.LineOfSightRunner$$anonfun$1
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions.LineOfSightRunner$$anonfun$2
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions.LineOfSightRunner$$anonfun$3
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> reductions.ParallelCountChange
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> reductions.ParallelCountChange$
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> reductions.ParallelCountChange$$anonfun$3
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> reductions.ParallelCountChange$$anonfun$4
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> reductions.ParallelCountChange$$anonfun$combinedThreshold$1
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> reductions.ParallelCountChange$$anonfun$moneyThreshold$1
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> reductions.ParallelCountChange$$anonfun$totalCoinsThreshold$1
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> reductions.ParallelCountChangeRunner
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> reductions.ParallelCountChangeRunner$
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> reductions.ParallelCountChangeRunner$$anonfun$1
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> reductions.ParallelCountChangeRunner$$anonfun$2
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> reductions.ParallelParenthesesBalancing
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> reductions.ParallelParenthesesBalancing$
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> reductions.ParallelParenthesesBalancing$$anonfun$3
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> reductions.ParallelParenthesesBalancing$$anonfun$4
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> reductions.ParallelParenthesesBalancing$$anonfun$5
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> reductions.ParallelParenthesesBalancing$$anonfun$6
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> reductions.ParallelParenthesesBalancing$$anonfun$7
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> reductions.ParallelParenthesesBalancing$$anonfun$8
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> reductions.ParallelParenthesesBalancingRunner
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> reductions.ParallelParenthesesBalancingRunner$
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> reductions.ParallelParenthesesBalancingRunner$$anonfun$1
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> reductions.ParallelParenthesesBalancingRunner$$anonfun$2
+used names:
+403 items
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/common/package.scala -> $anon
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/common/package.scala -> <byname>
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/common/package.scala -> <init>
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/common/package.scala -> ?0
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/common/package.scala -> A
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/common/package.scala -> Any
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/common/package.scala -> AnyRef
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/common/package.scala -> B
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/common/package.scala -> Boolean
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/common/package.scala -> C
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/common/package.scala -> D
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/common/package.scala -> DefaultTaskScheduler
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/common/package.scala -> DynamicVariable
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/common/package.scala -> ForkJoinPool
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/common/package.scala -> ForkJoinTask
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/common/package.scala -> Nothing
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/common/package.scala -> Object
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/common/package.scala -> RecursiveTask
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/common/package.scala -> T
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/common/package.scala -> T1
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/common/package.scala -> T2
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/common/package.scala -> T3
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/common/package.scala -> T4
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/common/package.scala -> TaskScheduler
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/common/package.scala -> Thread
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/common/package.scala -> Tuple2
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/common/package.scala -> Tuple4
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/common/package.scala -> Unit
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/common/package.scala -> _root_
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/common/package.scala -> body
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/common/package.scala -> common
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/common/package.scala -> concurrent
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/common/package.scala -> currentThread
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/common/package.scala -> execute
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/common/package.scala -> fork
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/common/package.scala -> forkJoinPool
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/common/package.scala -> isInstanceOf
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/common/package.scala -> java
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/common/package.scala -> join
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/common/package.scala -> lang
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/common/package.scala -> left
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/common/package.scala -> package
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/common/package.scala -> parallel
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/common/package.scala -> right
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/common/package.scala -> scala
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/common/package.scala -> schedule
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/common/package.scala -> scheduler
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/common/package.scala -> t
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/common/package.scala -> ta
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/common/package.scala -> task
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/common/package.scala -> taskA
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/common/package.scala -> taskB
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/common/package.scala -> taskC
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/common/package.scala -> taskD
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/common/package.scala -> tb
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/common/package.scala -> tc
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/common/package.scala -> td
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/common/package.scala -> util
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/common/package.scala -> value
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> %
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> &&
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> *
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> +
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> -
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> ->
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> /
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> <
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> <=
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> <byname>
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> <init>
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> <repeated>
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> ==
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> >
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> A
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> A1
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> AbstractFunction2
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> AbstractFunction3
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> Any
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> AnyRef
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> Array
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> ArrayOps
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> ArrowAssoc
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> B
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> Boolean
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> CanBuildFrom
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> Class
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> ClassTag
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> Coll
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> Default
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> Double
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> Float
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> Function1
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> IndexOutOfBoundsException
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> IndexedSeq
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> Int
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> Iterator
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> Key
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> KeyValue
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> KeyWithDefault
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> Leaf
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> LineOfSight
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> LineOfSightRunner
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> List
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> MatchError
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> Math
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> MeasureBuilder
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> Node
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> None
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> Nothing
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> Object
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> Ordering
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> Predef
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> Product
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> Range
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> RichInt
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> S
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> ScalaRunTime
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> Serializable
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> Some
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> Statics
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> String
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> StringContext
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> T
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> T0
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> T1
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> T2
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> T3
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> That
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> Tree
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> Tuple2
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> Tuple3
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> U
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> Unit
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> Warmer
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> _$4
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> _$7
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> _1
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> _2
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> _hashCode
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> _toString
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> a
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> angles
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> apply
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> asInstanceOf
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> b
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> benchRuns
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> canBuildFrom
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> common
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> config
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> downsweep
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> downsweepSequential
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> end
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> eq
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> evaluateOutput
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> exec
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> finalizeHash
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> floatArrayOps
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> floatHash
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> foreach
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> from
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> i
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> immutable
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> input
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> intWrapper
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> isInstanceOf
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> java
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> lang
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> left
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> length
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> lineOfSight
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> map
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> materializeClassTag
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> math
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> max
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> maxPrevious
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> maxWarmupRuns
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> measure
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> mid
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> minWarmupRuns
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> mix
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> ne
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> org
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> output
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> package
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> parLineOfSight
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> parallel
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> partime
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> println
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> refArrayOps
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> right
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> runtime
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> s
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> scala
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> scalameter
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> seqtime
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> standardConfig
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> startingAngle
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> threshold
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> toArray
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> toString
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> tree
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> typedProductIterator
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> unchecked
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> until
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> update
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> upsweep
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> upsweepSequential
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> verbose
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> withWarmer
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> xs
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> zipWithIndex
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> ||
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> *
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> +
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> -
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> ->
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> /
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> <
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> <=
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> <byname>
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> <init>
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> <repeated>
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> ==
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> A
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> Any
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> AnyRef
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> Array
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> ArrowAssoc
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> B
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> Boolean
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> Default
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> Double
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> Function2
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> Int
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> Key
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> KeyValue
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> KeyWithDefault
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> List
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> MatchError
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> MeasureBuilder
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> Nothing
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> Object
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> ParallelCountChange
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> ParallelCountChangeRunner
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> Predef
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> S
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> String
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> StringContext
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> T1
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> T2
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> Threshold
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> Tuple2
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> Unit
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> Warmer
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> _1
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> _2
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> _root_
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> allCoins
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> amount
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> apply
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> benchRuns
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> coins
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> combinedThreshold
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> common
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> config
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> countChange
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> exec
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> fjtime
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> head
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> immutable
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> isEmpty
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> left
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> length
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> maxWarmupRuns
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> measure
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> measureParallelCountChange
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> minWarmupRuns
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> money
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> moneyThreshold
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> ne
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> org
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> package
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> parCountChange
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> parResult
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> parResult_=
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> parallel
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> println
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> reductions
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> right
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> s
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> scala
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> scalameter
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> seqResult
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> seqResult_=
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> seqtime
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> standardConfig
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> startingMoney
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> tail
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> threshold
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> totalCoins
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> totalCoinsThreshold
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> unchecked
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> verbose
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> withWarmer
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> ||
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> +
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> -
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> ->
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> /
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> <=
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> <byname>
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> <init>
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> <repeated>
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> ==
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> A
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> Any
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> AnyRef
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> Array
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> ArrayOps
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> ArrowAssoc
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> B
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> Boolean
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> Char
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> Default
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> Double
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> Function2
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> Int
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> Key
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> KeyValue
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> KeyWithDefault
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> MatchError
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> MeasureBuilder
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> Nothing
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> Object
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> ParallelParenthesesBalancing
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> ParallelParenthesesBalancingRunner
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> Predef
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> S
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> String
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> StringContext
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> T1
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> T2
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> Tuple2
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> Unit
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> Warmer
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> _1
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> _2
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> a
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> acc
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> annotation
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> apply
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> balance
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> benchRuns
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> charArrayOps
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> chars
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> common
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> config
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> exec
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> fjtime
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> foldLeft
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> from
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> func
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> idx
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> left
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> length
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> matches
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> math
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> maxWarmupRuns
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> measure
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> middle
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> min
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> minWarmupRuns
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> ne
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> newArray
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> org
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> package
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> parBalance
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> parResult
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> parResult_=
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> parallel
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> println
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> reduce
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> reductions
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> right
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> s
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> scala
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> scalameter
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> seqResult
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> seqResult_=
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> seqtime
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> size
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> slice
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> standardConfig
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> threshold
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> traverse
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> tuple
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> unchecked
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> until
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> verbose
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> withWarmer
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> x
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> y
+product stamps:
+46 items
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/common/package$.class -> lastModified(1560928572897)
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/common/package$DefaultTaskScheduler$$anon$1.class -> lastModified(1560928572908)
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/common/package$DefaultTaskScheduler.class -> lastModified(1560928572903)
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/common/package$TaskScheduler.class -> lastModified(1560928572912)
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/common/package.class -> lastModified(1560928572833)
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/reductions/LineOfSight$$anonfun$4.class -> lastModified(1560928572950)
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/reductions/LineOfSight$$anonfun$5.class -> lastModified(1560928572954)
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/reductions/LineOfSight$$anonfun$6.class -> lastModified(1560928572959)
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/reductions/LineOfSight$$anonfun$downsweep$1.class -> lastModified(1560928572963)
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/reductions/LineOfSight$$anonfun$downsweep$2.class -> lastModified(1560928572968)
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/reductions/LineOfSight$$anonfun$lineOfSight$1.class -> lastModified(1560928572973)
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/reductions/LineOfSight$.class -> lastModified(1560928572941)
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/reductions/LineOfSight$Leaf$.class -> lastModified(1560928572995)
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/reductions/LineOfSight$Leaf.class -> lastModified(1560928572989)
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/reductions/LineOfSight$Node$.class -> lastModified(1560928573001)
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/reductions/LineOfSight$Node.class -> lastModified(1560928573014)
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/reductions/LineOfSight$Tree.class -> lastModified(1560928573016)
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/reductions/LineOfSight.class -> lastModified(1560928572919)
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/reductions/LineOfSightRunner$$anonfun$1.class -> lastModified(1560928573031)
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/reductions/LineOfSightRunner$$anonfun$2.class -> lastModified(1560928573034)
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/reductions/LineOfSightRunner$$anonfun$3.class -> lastModified(1560928573037)
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/reductions/LineOfSightRunner$.class -> lastModified(1560928573027)
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/reductions/LineOfSightRunner.class -> lastModified(1560928573018)
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/reductions/ParallelCountChange$$anonfun$3.class -> lastModified(1560928573053)
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/reductions/ParallelCountChange$$anonfun$4.class -> lastModified(1560928573057)
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/reductions/ParallelCountChange$$anonfun$combinedThreshold$1.class -> lastModified(1560928573060)
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/reductions/ParallelCountChange$$anonfun$moneyThreshold$1.class -> lastModified(1560928573064)
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/reductions/ParallelCountChange$$anonfun$totalCoinsThreshold$1.class -> lastModified(1560928573069)
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/reductions/ParallelCountChange$.class -> lastModified(1560928573050)
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/reductions/ParallelCountChange.class -> lastModified(1560928573041)
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/reductions/ParallelCountChangeRunner$$anonfun$1.class -> lastModified(1560928573090)
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/reductions/ParallelCountChangeRunner$$anonfun$2.class -> lastModified(1560928573094)
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/reductions/ParallelCountChangeRunner$.class -> lastModified(1560928573085)
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/reductions/ParallelCountChangeRunner.class -> lastModified(1560928573072)
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancing$$anonfun$3.class -> lastModified(1560928573109)
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancing$$anonfun$4.class -> lastModified(1560928573113)
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancing$$anonfun$5.class -> lastModified(1560928573117)
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancing$$anonfun$6.class -> lastModified(1560928573120)
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancing$$anonfun$7.class -> lastModified(1560928573124)
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancing$$anonfun$8.class -> lastModified(1560928573128)
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancing$.class -> lastModified(1560928573105)
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancing.class -> lastModified(1560928573096)
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancingRunner$$anonfun$1.class -> lastModified(1560928573143)
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancingRunner$$anonfun$2.class -> lastModified(1560928573147)
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancingRunner$.class -> lastModified(1560928573140)
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancingRunner.class -> lastModified(1560928573131)
+source stamps:
+4 items
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/common/package.scala -> hash(19ffe96b09c84ba566e866c51bacad3b301b2c11)
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> hash(75ec8fa74271c78fcc03a6eb705209095792ebde)
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> hash(d3419adfb2e027250c419dff0e50e2fe9d96edc8)
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> hash(e645edb99a1186475a868a217c87cf013a774cde)
+binary stamps:
+3 items
+/Users/jonathanrubina/.sbt/0.13/java9-rt-ext-oracle_corporation_11/rt.jar -> lastModified(1545701009786)
+/Users/jonathanrubina/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/storm-enroute/scalameter-core_2.11/0.6/scalameter-core_2.11-0.6.jar -> lastModified(1405518657000)
+/Users/jonathanrubina/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.7/scala-library-2.11.7.jar -> lastModified(1435004218000)
+class names:
+3 items
+/Users/jonathanrubina/.sbt/0.13/java9-rt-ext-oracle_corporation_11/rt.jar -> java.lang.Object
+/Users/jonathanrubina/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/storm-enroute/scalameter-core_2.11/0.6/scalameter-core_2.11-0.6.jar -> org.scalameter.Warmer
+/Users/jonathanrubina/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.7/scala-library-2.11.7.jar -> scala.Unit
+internal apis:
+4 items
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/common/package.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw+Yn04QABc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAcc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwuW2uv3QABm5vdGlmeXNxAH4ADLd7app0AAdwYWNrYWdlc3EAfgAM60dllnQABHdhaXRzcQB+AAxFEfvWdAAEdGFza3NxAH4ADFdaVZl0AA0kYXNJbnN0YW5jZU9mc3EAfgAMLZS+xHQAFERlZmF1bHRUYXNrU2NoZWR1bGVyc3EAfgAM/pUpbXQABmVxdWFsc3NxAH4ADE48rut0AAxhc0luc3RhbmNlT2ZzcQB+AAxHd91ldAAMc3luY2hyb25pemVkc3EAfgAMBJ7vw3QADSRpc0luc3RhbmNlT2ZzcQB+AAzWCh9fdAAMZm9ya0pvaW5Qb29sc3EAfgAMnSgFbXQACW5vdGlmeUFsbHNxAH4ADHLyoyJ0AAxpc0luc3RhbmNlT2ZzcQB+AAxPOtqWdAAGPGluaXQ+c3EAfgAMQiN1EHQACXNjaGVkdWxlcnNxAH4ADH8bLs50AAI9PXNxAH4ADM05Ry50AA1UYXNrU2NoZWR1bGVyc3EAfgAM82Ka93QABWNsb25lc3EAfgAMwf8sL3QACHNjaGVkdWxlc3EAfgAMyRmNSnQACHRvU3RyaW5nc3EAfgAM+6VKv3QAAiE9c3EAfgAMD/Ybs3QACGdldENsYXNzc3EAfgAM2TMwbXQAAm5lc3EAfgAMYlMrU3QAAmVxc3EAfgAMn/ZIHXQACHBhcmFsbGVsc3EAfgAMYOwlInQAAiMjc3EAfgAMF8FHGXQACGZpbmFsaXplc3EAfgAM0nmU1nQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AT3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQADmNvbW1vbi5wYWNrYWdldXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAXQAJmpkay5pbnRlcm5hbC5Ib3RTcG90SW50cmluc2ljQ2FuZGlkYXRlc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGhzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AT0wACWluaGVyaXRlZHEAfgBPTAAHcGFyZW50c3EAfgBPeHEAfgBtc3EAfgBodXEAfgBKAAAAAHNxAH4AaHVxAH4ASgAAAABzcQB+AGh1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGx0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGxzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AIV0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIZzcQB+AHl0AANBbnlzcQB+AH1zcQB+AIB1cQB+AIMAAAACc3EAfgCFdAAFc2NhbGFxAH4AjHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQABmNvbW1vbnNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABa26XwMx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABkL1VzZXJzL2pvbmF0aGFucnViaW5hL0Rlc2t0b3AvU2NhbGFDb3Vyc2VyYS9QYXJhbGxlbFByb2dyYW1taW5nL3JlZHVjdGlvbnMvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFBn/6WsJyEulZuhmxRusrTswGywR
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwhUkRdwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAA1c3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hway8CcnQABm5vdGlmeXNxAH4ADHCgTu50AAd1bmFwcGx5c3EAfgAMBnAByXQAB2N1cnJpZWRzcQB+AAz6ApWBdAAHdXBzd2VlcHNxAH4ADFqixPp0AAR3YWl0c3EAfgAMJ03O3nQADmNvcHkkZGVmYXVsdCQyc3EAfgAMmW6n/3QADSRhc0luc3RhbmNlT2ZzcQB+AAxawHVJdAAMcHJvZHVjdEFyaXR5c3EAfgAMGAZU+3QABmVxdWFsc3NxAH4ADBnyk0x0AAxhc0luc3RhbmNlT2ZzcQB+AAw4l8sedAAMc3luY2hyb25pemVkc3EAfgAMZriNtXQABGxlZnRzcQB+AAwnKtlGdAAEVHJlZXNxAH4ADBqtbeF0AA0kaXNJbnN0YW5jZU9mc3EAfgAMXMM3RXQABE5vZGVzcQB+AAxn4/ImdAARTGluZU9mU2lnaHRSdW5uZXJzcQB+AAwox/cudAAGdHVwbGVkc3EAfgAMz+Sue3QAEXVwc3dlZXBTZXF1ZW50aWFsc3EAfgAMUTu3j3QAC2xpbmVPZlNpZ2h0c3EAfgAMACFjlXQACGNhbkVxdWFsc3EAfgAMQGYy7HQABG1haW5zcQB+AAzWZwKYdAAETGVhZnNxAH4ADAe0F2Z0AA1wcm9kdWN0UHJlZml4c3EAfgAMgjaShnQABXVudGlsc3EAfgAMcD9t2XQACW5vdGlmeUFsbHNxAH4ADHBt5s90AAxpc0luc3RhbmNlT2ZzcQB+AAxyH408dAATZG93bnN3ZWVwU2VxdWVudGlhbHNxAH4ADIKqXgh0AAlkb3duc3dlZXBzcQB+AAz8VONUdAAGPGluaXQ+c3EAfgAM3clyn3QAA21heHNxAH4ADGUXyjt0AA5wYXJMaW5lT2ZTaWdodHNxAH4ADIjNNsJ0AAVhcHBseXNxAH4ADN/8tCd0AAI9PXNxAH4ADKBC9rJ0AAVjbG9uZXNxAH4ADMatnwF0AARmcm9tc3EAfgAMCpoPP3QABiRpbml0JHNxAH4ADCKlVyF0AA5jb3B5JGRlZmF1bHQkM3NxAH4ADAhqrdp0AARjb3B5c3EAfgAMeVTZVXQACHRvU3RyaW5nc3EAfgAMv/IC9nQADnN0YW5kYXJkQ29uZmlnc3EAfgAM73h6NnQAAiE9c3EAfgAM5Cf0XnQAC0xpbmVPZlNpZ2h0c3EAfgAMKOH8O3QACGdldENsYXNzc3EAfgAMbiNoW3QADmNvcHkkZGVmYXVsdCQxc3EAfgAMy82q3HQAAm5lc3EAfgAMRg4b83QAAmVxc3EAfgAM2GC2YnQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADHzYjux0AAVyaWdodHNxAH4ADCwbJa10AAIjI3NxAH4ADNugRcV0AAhmaW5hbGl6ZXNxAH4ADE2fpkZ0AA5wcm9kdWN0RWxlbWVudHNxAH4ADJlXgEt0AAhoYXNoQ29kZXNxAH4ADBxt4hZ0AAttYXhQcmV2aW91c3NyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AIF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ABxyZWR1Y3Rpb25zLkxpbmVPZlNpZ2h0UnVubmVydXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAXQAJmpkay5pbnRlcm5hbC5Ib3RTcG90SW50cmluc2ljQ2FuZGlkYXRlc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AJpzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AgUwACWluaGVyaXRlZHEAfgCBTAAHcGFyZW50c3EAfgCBeHEAfgCfc3EAfgCadXEAfgB8AAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgCCcQB+AIt1cQB+AIwAAAAAc3EAfgCOAHEAfgA3dXEAfgCRAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AJ50AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCec3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgC6dXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4Ap3hwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AlHQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4ArlsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AnnNxAH4ArXQABUFycmF5cQB+ALN1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4ArXQABlN0cmluZ3NxAH4AsXNxAH4AtHVxAH4AtwAAAANzcQB+ALl0AARqYXZhc3EAfgC5dAAEbGFuZ3EAfgC+c3EAfgCadXEAfgB8AAAAAHNxAH4AmnVxAH4A0gAAAAJzcQB+AK10AAZPYmplY3RxAH4A1nNxAH4ArXQAA0FueXEAfgCzc3EAfgB+cQB+AIt1cQB+AIwAAAAAc3EAfgCOAHQAFnJlZHVjdGlvbnMuTGluZU9mU2lnaHR1cQB+AJEAAAAAcQB+AJV1cQB+AJcAAAABdAAmamRrLmludGVybmFsLkhvdFNwb3RJbnRyaW5zaWNDYW5kaWRhdGVzcQB+AJpxAH4AoHNxAH4AmnNxAH4AonNxAH4AmnVxAH4AfAAAAABzcQB+AJp1cQB+AHwAAAAAc3EAfgCadXEAfgDSAAAAAnNxAH4ArXEAfgDic3EAfgCxc3EAfgC0dXEAfgC3AAAAA3NxAH4AuXEAfgDac3EAfgC5cQB+ANxxAH4AvnNxAH4ArXEAfgDkc3EAfgCxc3EAfgC0dXEAfgC3AAAAAnNxAH4AuXEAfgC8cQB+AL51cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AApyZWR1Y3Rpb25zc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFrbpfAzHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AGQvVXNlcnMvam9uYXRoYW5ydWJpbmEvRGVza3RvcC9TY2FsYUNvdXJzZXJhL1BhcmFsbGVsUHJvZ3JhbW1pbmcvcmVkdWN0aW9ucy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUdeyPp0Jxx4/MA6brcFIJCVeS694=
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwEuoHPwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAfc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwio8TtnQABm5vdGlmeXNxAH4ADAyCtWB0AAlUaHJlc2hvbGRzcQB+AAxUhWeMdAAEd2FpdHNxAH4ADBVAn250ABlQYXJhbGxlbENvdW50Q2hhbmdlUnVubmVyc3EAfgAMNEGsHHQADSRhc0luc3RhbmNlT2ZzcQB+AAxxakq8dAAGZXF1YWxzc3EAfgAMrD6SqXQAEWNvbWJpbmVkVGhyZXNob2xkc3EAfgAMY7UMl3QADm1vbmV5VGhyZXNob2xkc3EAfgAM/QZn+3QADGFzSW5zdGFuY2VPZnNxAH4ADGakKEN0AAxzeW5jaHJvbml6ZWRzcQB+AAw44PW7dAAJcGFyUmVzdWx0c3EAfgAMFFsshHQADSRpc0luc3RhbmNlT2ZzcQB+AAyJYXpydAATUGFyYWxsZWxDb3VudENoYW5nZXNxAH4ADK2p7ul0AARtYWluc3EAfgAMiwBLKHQACW5vdGlmeUFsbHNxAH4ADGnqrTZ0AAxpc0luc3RhbmNlT2ZzcQB+AAxECg7+dAACPT1zcQB+AAzX8REydAAFY2xvbmVzcQB+AAwDYkS1dAAIdG9TdHJpbmdzcQB+AAzeY0TQdAAOc3RhbmRhcmRDb25maWdzcQB+AAxUfAbjdAACIT1zcQB+AAyAKxoFdAAIZ2V0Q2xhc3NzcQB+AAwZP050dAAJc2VxUmVzdWx0c3EAfgAMJBfOu3QAC2NvdW50Q2hhbmdlc3EAfgAMBgbLzXQAAm5lc3EAfgAM2m2iznQAE3RvdGFsQ29pbnNUaHJlc2hvbGRzcQB+AAxakvp2dAAOcGFyQ291bnRDaGFuZ2VzcQB+AAz9d4NPdAACZXFzcQB+AAylBRthdAACIyNzcQB+AAzR4lAjdAAIZmluYWxpemVzcQB+AAz2/oVldAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBVeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAkcmVkdWN0aW9ucy5QYXJhbGxlbENvdW50Q2hhbmdlUnVubmVydXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAXQAJmpkay5pbnRlcm5hbC5Ib3RTcG90SW50cmluc2ljQ2FuZGlkYXRlc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AG5zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AVUwACWluaGVyaXRlZHEAfgBVTAAHcGFyZW50c3EAfgBVeHEAfgBzc3EAfgBudXEAfgBQAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBWcQB+AF91cQB+AGAAAAAAc3EAfgBiAHEAfgApdXEAfgBlAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AHJ0AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgByc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCOdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4Ae3hwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AaHQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AglsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AcnNxAH4AgXQABUFycmF5cQB+AId1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AgXQABlN0cmluZ3NxAH4AhXNxAH4AiHVxAH4AiwAAAANzcQB+AI10AARqYXZhc3EAfgCNdAAEbGFuZ3EAfgCSc3EAfgBudXEAfgBQAAAAAHNxAH4AbnVxAH4ApgAAAAJzcQB+AIF0AAZPYmplY3RxAH4AqnNxAH4AgXQAA0FueXEAfgCHc3EAfgBScQB+AF91cQB+AGAAAAAAc3EAfgBiAHQAHnJlZHVjdGlvbnMuUGFyYWxsZWxDb3VudENoYW5nZXVxAH4AZQAAAABxAH4AaXVxAH4AawAAAAF0ACZqZGsuaW50ZXJuYWwuSG90U3BvdEludHJpbnNpY0NhbmRpZGF0ZXNxAH4AbnEAfgB0c3EAfgBuc3EAfgB2c3EAfgBudXEAfgBQAAAAAHNxAH4AbnVxAH4AUAAAAABzcQB+AG51cQB+AKYAAAACc3EAfgCBcQB+ALZzcQB+AIVzcQB+AIh1cQB+AIsAAAADc3EAfgCNcQB+AK5zcQB+AI1xAH4AsHEAfgCSc3EAfgCBcQB+ALhzcQB+AIVzcQB+AIh1cQB+AIsAAAACc3EAfgCNcQB+AJBxAH4AknVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQACnJlZHVjdGlvbnNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWtul8DMdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAZC9Vc2Vycy9qb25hdGhhbnJ1YmluYS9EZXNrdG9wL1NjYWxhQ291cnNlcmEvUGFyYWxsZWxQcm9ncmFtbWluZy9yZWR1Y3Rpb25zL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTTQZrfsuAnJQxBnf8OUOL+nZbtyA==
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwuGFnxQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAbc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwUg64YHQABm5vdGlmeXNxAH4ADI9BLVp0AAR3YWl0c3EAfgAMfOt8KnQADSRhc0luc3RhbmNlT2ZzcQB+AAwapKgYdAAGZXF1YWxzc3EAfgAMjFeu13QADGFzSW5zdGFuY2VPZnNxAH4ADE3e/hN0AAxzeW5jaHJvbml6ZWRzcQB+AAz5Ay9SdAAJcGFyUmVzdWx0c3EAfgAM2VETgnQADSRpc0luc3RhbmNlT2ZzcQB+AAxynffBdAAKcGFyQmFsYW5jZXNxAH4ADO/uaat0AAdiYWxhbmNlc3EAfgAMK9K84XQABG1haW5zcQB+AAx3ZsVldAAJbm90aWZ5QWxsc3EAfgAMEN++h3QADGlzSW5zdGFuY2VPZnNxAH4ADGEEOmN0AAI9PXNxAH4ADNSzhJR0AAVjbG9uZXNxAH4ADFqLlnt0ACJQYXJhbGxlbFBhcmVudGhlc2VzQmFsYW5jaW5nUnVubmVyc3EAfgAMg5NwwXQACHRvU3RyaW5nc3EAfgAMk6XZcnQADnN0YW5kYXJkQ29uZmlnc3EAfgAMOv2y/XQAAiE9c3EAfgAMiSdOHHQACGdldENsYXNzc3EAfgAMrqNWKHQACXNlcVJlc3VsdHNxAH4ADOzy5XZ0AAJuZXNxAH4ADCLXOFV0AAJlcXNxAH4ADHNg9oN0AAIjI3NxAH4ADNc70UN0AAhmaW5hbGl6ZXNxAH4ADMNBlFp0AAhoYXNoQ29kZXNxAH4ADEWi2DB0ABxQYXJhbGxlbFBhcmVudGhlc2VzQmFsYW5jaW5nc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4ATXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQALXJlZHVjdGlvbnMuUGFyYWxsZWxQYXJlbnRoZXNlc0JhbGFuY2luZ1J1bm5lcnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAF0ACZqZGsuaW50ZXJuYWwuSG90U3BvdEludHJpbnNpY0NhbmRpZGF0ZXNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBmc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AE1MAAlpbmhlcml0ZWRxAH4ATUwAB3BhcmVudHNxAH4ATXhxAH4Aa3NxAH4AZnVxAH4ASAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4ATnEAfgBXdXEAfgBYAAAAAHNxAH4AWgBxAH4AI3VxAH4AXQAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBqdAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AanNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AhnVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AHN4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AGB0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AHpbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AGpzcQB+AHl0AAVBcnJheXEAfgB/dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AHl0AAZTdHJpbmdzcQB+AH1zcQB+AIB1cQB+AIMAAAADc3EAfgCFdAAEamF2YXNxAH4AhXQABGxhbmdxAH4AinNxAH4AZnVxAH4ASAAAAABzcQB+AGZ1cQB+AJ4AAAACc3EAfgB5dAAGT2JqZWN0cQB+AKJzcQB+AHl0AANBbnlxAH4Af3NxAH4ASnEAfgBXdXEAfgBYAAAAAHNxAH4AWgB0ACdyZWR1Y3Rpb25zLlBhcmFsbGVsUGFyZW50aGVzZXNCYWxhbmNpbmd1cQB+AF0AAAAAcQB+AGF1cQB+AGMAAAABdAAmamRrLmludGVybmFsLkhvdFNwb3RJbnRyaW5zaWNDYW5kaWRhdGVzcQB+AGZxAH4AbHNxAH4AZnNxAH4AbnNxAH4AZnVxAH4ASAAAAABzcQB+AGZ1cQB+AEgAAAAAc3EAfgBmdXEAfgCeAAAAAnNxAH4AeXEAfgCuc3EAfgB9c3EAfgCAdXEAfgCDAAAAA3NxAH4AhXEAfgCmc3EAfgCFcQB+AKhxAH4AinNxAH4AeXEAfgCwc3EAfgB9c3EAfgCAdXEAfgCDAAAAAnNxAH4AhXEAfgCIcQB+AIp1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AApyZWR1Y3Rpb25zc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFrbpfAzHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AGQvVXNlcnMvam9uYXRoYW5ydWJpbmEvRGVza3RvcC9TY2FsYUNvdXJzZXJhL1BhcmFsbGVsUHJvZ3JhbW1pbmcvcmVkdWN0aW9ucy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU5kXtuZoRhkdahoohfIfPATp3TN4=
+external apis:
+0 items
+source infos:
+4 items
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/common/package.scala -> 
+AAAAAAAAAAA=
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala -> 
+AAAAAAAAAAA=
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala -> 
+AAAAAAAAAAA=
+/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABa26XwMx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAZC9Vc2Vycy9qb25hdGhhbnJ1YmluYS9EZXNrdG9wL1NjYWxhQ291cnNlcmEvUGFyYWxsZWxQcm9ncmFtbWluZy9yZWR1Y3Rpb25zL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv

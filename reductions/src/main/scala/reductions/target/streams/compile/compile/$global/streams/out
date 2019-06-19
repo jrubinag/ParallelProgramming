@@ -1,0 +1,81 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala:3:12: object scalameter is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.scalameter._[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala:4:8: not found: object common[0m
+[0m[[0m[31merror[0m] [0m[0mimport common._[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala:8:24: not found: value config[0m
+[0m[[0m[31merror[0m] [0m[0m  val standardConfig = config([0m
+[0m[[0m[31merror[0m] [0m[0m                       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala:9:5: not found: value Key[0m
+[0m[[0m[31merror[0m] [0m[0m    Key.exec.minWarmupRuns -> 40,[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala:10:5: not found: value Key[0m
+[0m[[0m[31merror[0m] [0m[0m    Key.exec.maxWarmupRuns -> 80,[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala:11:5: not found: value Key[0m
+[0m[[0m[31merror[0m] [0m[0m    Key.exec.benchRuns -> 100,[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala:12:5: not found: value Key[0m
+[0m[[0m[31merror[0m] [0m[0m    Key.verbose -> true[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/LineOfSight.scala:13:20: not found: value Warmer[0m
+[0m[[0m[31merror[0m] [0m[0m  ) withWarmer(new Warmer.Default)[0m
+[0m[[0m[31merror[0m] [0m[0m                   ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala:3:12: object scalameter is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.scalameter._[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala:4:8: not found: object common[0m
+[0m[[0m[31merror[0m] [0m[0mimport common._[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala:12:24: not found: value config[0m
+[0m[[0m[31merror[0m] [0m[0m  val standardConfig = config([0m
+[0m[[0m[31merror[0m] [0m[0m                       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala:13:5: not found: value Key[0m
+[0m[[0m[31merror[0m] [0m[0m    Key.exec.minWarmupRuns -> 20,[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala:14:5: not found: value Key[0m
+[0m[[0m[31merror[0m] [0m[0m    Key.exec.maxWarmupRuns -> 40,[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala:15:5: not found: value Key[0m
+[0m[[0m[31merror[0m] [0m[0m    Key.exec.benchRuns -> 80,[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala:16:5: not found: value Key[0m
+[0m[[0m[31merror[0m] [0m[0m    Key.verbose -> true[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala:17:20: not found: value Warmer[0m
+[0m[[0m[31merror[0m] [0m[0m  ) withWarmer(new Warmer.Default)[0m
+[0m[[0m[31merror[0m] [0m[0m                   ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala:64:29: not found: value parallel[0m
+[0m[[0m[31merror[0m] [0m[0m        val (left, right) = parallel(countChange(money - coins.head, coins), countChange(money, coins.tail))[0m
+[0m[[0m[31merror[0m] [0m[0m                            ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelCountChange.scala:65:17: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Any[0m
+[0m[[0m[31merror[0m] [0m[0m required: String[0m
+[0m[[0m[31merror[0m] [0m[0m         left + right [0m
+[0m[[0m[31merror[0m] [0m[0m                ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala:4:12: object scalameter is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.scalameter._[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala:5:8: not found: object common[0m
+[0m[[0m[31merror[0m] [0m[0mimport common._[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala:13:24: not found: value config[0m
+[0m[[0m[31merror[0m] [0m[0m  val standardConfig = config([0m
+[0m[[0m[31merror[0m] [0m[0m                       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala:14:5: not found: value Key[0m
+[0m[[0m[31merror[0m] [0m[0m    Key.exec.minWarmupRuns -> 40,[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala:15:5: not found: value Key[0m
+[0m[[0m[31merror[0m] [0m[0m    Key.exec.maxWarmupRuns -> 80,[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala:16:5: not found: value Key[0m
+[0m[[0m[31merror[0m] [0m[0m    Key.exec.benchRuns -> 120,[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala:17:5: not found: value Key[0m
+[0m[[0m[31merror[0m] [0m[0m    Key.verbose -> true[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/jonathanrubina/Desktop/ScalaCoursera/ParallelProgramming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala:18:20: not found: value Warmer[0m
+[0m[[0m[31merror[0m] [0m[0m  ) withWarmer(new Warmer.Default)[0m
+[0m[[0m[31merror[0m] [0m[0m                   ^[0m
+[0m[[0m[31merror[0m] [0m[0m26 errors found[0m
